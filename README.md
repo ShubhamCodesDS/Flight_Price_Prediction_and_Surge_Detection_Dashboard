@@ -60,7 +60,7 @@ Injected a custom `Cyber Slate Dark` theme layout to construct a unified multi-p
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![image alt](https://github.com/ShubhamCodesDS/Flight-Price-Prediction-Surge-Pricing-Analytics/blob/1d199d5f00a79f75785ee0d61dd2cb86be553baa/Dashboard.png)
 
 ---
 
