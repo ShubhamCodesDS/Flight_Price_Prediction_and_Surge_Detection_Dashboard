@@ -1,4 +1,4 @@
-# ✈️ Flight Price Prediction & Surge Detection Dashboard
+# ✈️ Flight Price Prediction & Surge Detection 
 
 ## 🚀 Project Overview
 
